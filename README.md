@@ -5,6 +5,16 @@ This repository contains the projects and tasks completed during my one-month Da
 
 The repository is organized by tasks, each containing the Jupyter Notebook, dataset, and relevant documentation.
 
+# Internship Details
+
+Organization: Oasis Infobyte  
+
+Role: Data Science Intern  
+
+Duration: 1 Month (April 2026 – May 2026)  
+
+Offer Letter ID: OIB/L2/IP2236
+
 # Task 1: Iris Flower Classification
 
 Objective: To develop a machine learning model capable of classifying Iris species based on their sepal and petal measurements.
@@ -23,15 +33,90 @@ Exploratory Data Analysis (EDA) to visualize species distribution.
 
 Model training and comparative performance evaluation.
 
-# Internship Details
 
-Organization: Oasis Infobyte  
+# Task 2: Unemployment Rate Analysis (COVID-19 Impact)
 
-Role: Data Science Intern  
+# Project Overview
 
-Duration: 1 Month (April 2026 – May 2026)  
+This project analyzes the **unemployment rate in India**, with a special focus on the **impact of COVID-19**.
+Unemployment rate is defined as the percentage of people in the labor force who are unemployed.
 
-Offer Letter ID: OIB/L2/IP2236  
+The COVID-19 pandemic caused a significant disruption in employment, making this dataset ideal for data analysis and visualization.
+
+---
+
+# Objectives
+
+* Analyze unemployment trends over time
+* Study the impact of COVID-19 on unemployment rate
+* Compare unemployment across different regions
+* Identify patterns and insights using data visualization
+
+---
+
+# Dataset
+
+* Contains unemployment statistics across different regions in India
+* Key features:
+
+  * `Region`
+  * `Date`
+  * `Estimated Unemployment Rate (%)`
+  * `Estimated Employed`
+  * `Estimated Labour Participation Rate (%)`
+  * `Area`
+
+---
+
+# Technologies Used
+
+* Python 
+* Jupyter Notebook 
+* Libraries:
+
+  * pandas
+  * numpy
+  * matplotlib
+  * seaborn
+
+---
+
+# Data Analysis Steps
+
+1. Data Loading and Exploration
+2. Data Cleaning (handling missing values, formatting columns)
+3. Time Series Analysis
+4. COVID-19 Impact Analysis (Before vs During 2020)
+5. Region-wise Unemployment Comparison
+6. Correlation Analysis using Heatmap
+
+---
+
+# Key Insights
+
+* A sharp increase in unemployment was observed during **2020 (COVID period)**
+* Certain regions were more affected than others
+* Gradual recovery trend observed post-lockdown (if applicable)
+* Strong relationships exist between employment and labour participation rate
+
+---
+
+# Visualizations
+
+* Unemployment Rate Distribution
+* Time Series Trend
+* Region-wise Comparison
+* Correlation Heatmap
+
+---
+
+# Conclusion
+
+This project highlights how external events like COVID-19 can significantly impact employment trends.
+It demonstrates the use of data analysis and visualization techniques to extract meaningful insights.
+
+---
+
 
 # Contact
 
