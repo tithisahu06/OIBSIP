@@ -118,6 +118,86 @@ It demonstrates the use of data analysis and visualization techniques to extract
 ---
 
 
+# Car Price Prediction using Machine Learning
+
+# Project Overview
+
+Car price prediction is an important application of Machine Learning. The price of a car depends on multiple factors such as brand value, fuel type, mileage, transmission, and more.
+
+In this project, we built machine learning models to predict the selling price of cars based on various features and compared their performance.
+
+# Objective
+
+To analyze car data and identify key factors affecting price
+
+To build and train machine learning models
+
+To compare model performance and select the best one
+
+# Dataset
+
+The dataset contains the following features:
+
+Car Name, Year, Present Price, Kms Driven, Fuel Type, Seller Type, Transmission, Owner, Selling Price (Target Variable)
+
+# Technologies Used
+
+Python 
+
+Jupyter Notebook 
+
+Pandas & NumPy
+
+Matplotlib & Seaborn
+
+Scikit-learn
+
+# Data Preprocessing
+
+* Checked for missing values
+
+* Converted categorical data using One-Hot Encoding
+  
+* Removed irrelevant columns
+  
+* Split data into training and testing sets
+  
+# Models Used
+
+1. Linear Regression
+   
+Simple and interpretable model
+
+Assumes linear relationship between features
+
+2. Random Forest Regressor
+   
+Ensemble learning method
+
+Handles non-linear relationships effectively
+
+# Model Performance Based On RMSE
+
+* Linear Regression->	3.04
+  
+* Random Forest	—> 0.91
+
+# Result
+
+Random Forest Regressor performed significantly better than Linear Regression
+
+It achieved a much lower RMSE, indicating higher prediction accuracy
+
+# Conclusion
+
+Car price prediction is a regression problem influenced by multiple complex factors
+
+Linear Regression was not able to capture non-linear patterns effectively
+
+Random Forest model provided better results due to its ability to handle complex relationships
+
+Therefore, Random Forest is the best model for this project
+
 # Contact
 
 If you have any questions regarding these projects, feel free to reach out via LinkedIn!
