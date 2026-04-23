@@ -198,6 +198,65 @@ Random Forest model provided better results due to its ability to handle complex
 
 Therefore, Random Forest is the best model for this project
 
+
+# Task 4: Email Spam Detection using Machine Learning
+
+# Project Overview
+
+Spam emails are unwanted messages that often contain advertisements, scams, or phishing content. This project aims to build a machine learning model that can automatically classify emails as Spam or Not Spam (Ham).
+
+# Objective
+
+* To develop an email spam detection system using Python
+* To apply Natural Language Processing (NLP) techniques
+* To train a machine learning model for accurate classification
+  
+# Technologies Used
+
+* Python
+* Jupyter Notebook
+* Pandas, NumPy
+* Scikit-learn
+* Matplotlib & Seaborn
+  
+# Dataset
+
+* SMS Spam Collection Dataset
+* Contains labeled messages as spam or ham
+  
+# Project Workflow
+
+* Data Collection
+* Data Cleaning & Preprocessing
+* Text Vectorization (Bag of Words / TF-IDF)
+* Train-Test Split
+* Model Training using Naive Bayes
+* Model Evaluation
+* Testing with Custom Inputs
+  
+# Model Used
+
+* Multinomial Naive Bayes
+
+# Evaluation Metrics
+
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+  
+# Results
+
+* Achieved high accuracy in detecting spam messages
+* Model performs well on unseen data
+* Successfully classifies custom email inputs
+  
+# Key Learnings
+
+* Understanding of NLP techniques
+* Text preprocessing and feature extraction
+* Implementation of machine learning models
+* Model evaluation and performance analysis
+
 # Contact
 
 If you have any questions regarding these projects, feel free to reach out via LinkedIn!
